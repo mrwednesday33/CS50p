@@ -18,3 +18,5 @@ Feel free to explore, learn, and even provide feedback or improvements if you fi
 If you find any issues with the solutions or have suggestions for improvements, please feel free to open an issue or create a pull request. I welcome contributions and collaboration to make these Python solutions more comprehensive and helpful for the community.
 
 Thank you for visiting my CS50p - Python Problem Set Solutions repository! Happy coding in Python! 😊
+
+![Example Image](CS50p.png)
