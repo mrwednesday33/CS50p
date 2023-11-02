@@ -2,7 +2,7 @@
 
 Welcome to my CS50p - Python Problem Set Solutions repository! This repository contains my solutions for the weekly problem sets from Week 1 to Week 10 for Harvard University's CS50p course. CS50p is an introduction to computer science using Python programming language, and these solutions represent my efforts in mastering Python and fundamental programming concepts.
 
-![Python Logo](python-logo.png)
+![Python Logo](Python-logo.png)
 
 ## Repository Contents
 
